@@ -43,9 +43,11 @@ bowling.exe
 
 ### On Linux/Mac:
 
-```bash
+
 gcc main.c -o bowling -lraylib -lm -ldl -lpthread
 ./bowling
+
+
 2D bowling game/
 │
 ├── bowling.c                         # Game source code
