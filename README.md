@@ -46,3 +46,14 @@ bowling.exe
 ```bash
 gcc main.c -o bowling -lraylib -lm -ldl -lpthread
 ./bowling
+2D bowling game/
+│
+├── bowling.c                         # Game source code
+├── Screenshot 2025-08-05.png         # Game screenshot
+├── background.png                    # Contains pin and ball textures
+└── README.md                         # This file
+
+
+🧑‍💻 Author
+Nafisa Anjum
+Built as a personal project to explore game development with C and Raylib and as a part of a larger group project involving extended game features.
