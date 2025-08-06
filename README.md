@@ -39,9 +39,27 @@ in the vscode:
 gcc main.c -o bowling.exe -lraylib -lopengl32 -lgdi32 -lwinmm
 bowling.exe
 
-
-### On Linux/Mac:
-
 ```bash
 gcc main.c -o bowling -lraylib -lm -ldl -lpthread
 ./bowling
+
+## 📂 Folder Structure
+2D bowling game/
+│
+├── bowling.c # Game source code
+├── Screenshot 2025-08-05.png # Game screenshot
+├── background.png # Background and texture image(s)
+└── README.md # Project documentation
+
+
+---
+
+## 👩‍💻 Author
+
+Built as a personal project to explore 2D game development using **C** and **Raylib**,  
+and as part of a **larger group project** involving extended gameplay features.
+
+---
+
+
+
