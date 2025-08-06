@@ -6,7 +6,7 @@ A fun and interactive 2D bowling  game built in **C** using the [Raylib](https:/
 
 - 🎯 Three unique pin patterns:
   - Triangle
-  - Diamond
+  - random
   - Circle
 - 🎳 Physics-based ball movement with curve or straight throws
 - 🔊 Sound effects on pin collisions
@@ -35,6 +35,7 @@ A fun and interactive 2D bowling  game built in **C** using the [Raylib](https:/
 ## 🛠️ Compilation
 
 Make sure you have Raylib installed.
+
 in the vscode:
 gcc main.c -o bowling.exe -lraylib -lopengl32 -lgdi32 -lwinmm
 bowling.exe
