@@ -50,10 +50,11 @@ gcc main.c -o bowling -lraylib -lm -ldl -lpthread
 
 2D bowling game/
 │
-├── bowling.c                         # Game source code
-├── Screenshot 2025-08-05.png         # Game screenshot
-├── background.png                    # Contains pin and ball textures
-└── README.md                         # This file
+├── bowling.c                       # Game source code
+├── Screenshot 2025-08-05.png      # Game screenshot
+├── background.png                 # Background and texture image(s)
+└── README.md                      # Project documentation
+
 
 
 🧑‍💻 Author
